@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "138331551329",
+    "project_id": "nasuh-ff6fa",
+    "storage_bucket": "nasuh-ff6fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138331551329:android:14ebb6f5e5d8b6fdb39c20",
+        "android_client_info": {
+          "package_name": "com.islami.diniyarisma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138331551329-g3qkjbq0grbba3b5tufo68e8ogv7qpib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.islami.diniyarisma",
+            "certificate_hash": "73e02e1f39941c885f321d9c349c102e0645aadf"
+          }
+        },
+        {
+          "client_id": "138331551329-pmgo5q2efovrohe7rh93lbt9m3eidre7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5ZfJcmned6AqCLA4rtGJCgCkKpzoYt0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138331551329-pmgo5q2efovrohe7rh93lbt9m3eidre7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
